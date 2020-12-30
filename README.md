@@ -1,2 +1,2 @@
 # Data-Visualization-Python
-Using Python's Matplotlib and Seaborn library for Advanced Data Visualization 
+Using Python's Matplotlib, Seaborn, Plotly and Cufflinks library for Advanced Data Visualization 
